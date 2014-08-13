@@ -25,9 +25,6 @@ Install django-trustpaylib::
 
     pip install django-trustpaylib
 
-Then use it in a project::
-
-    import django-trustpaylib
 
 Features
 --------
